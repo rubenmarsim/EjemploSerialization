@@ -1,0 +1,47 @@
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\Ferrari.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\Force India.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\Lotus F1.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\Manor Marussia.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\McLaren.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\Mercedes.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\Red Bull.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\Sauber.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\Toro Rosso.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Images\Cars\Williams.png
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\IntroductionRest.dll.config
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\IntroductionRest.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\IntroductionRest.pdb
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Newtonsoft.Json.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\RestSharp.Portable.Core.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\RestSharp.Portable.HttpClient.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\System.Net.Http.Extensions.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\System.Net.Http.Primitives.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Xamarin.Forms.Core.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Xamarin.Forms.Platform.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Newtonsoft.Json.xml
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\RestSharp.Portable.Core.xml
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\RestSharp.Portable.HttpClient.xml
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\System.Net.Http.Extensions.xml
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\System.Net.Http.Primitives.xml
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Xamarin.Forms.Core.pdb
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Xamarin.Forms.Core.xml
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.csproj.App.config
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.csproj.CoreCompileInputs.cache
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.App.xaml.g.cs
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.Views.MainView.xaml.g.cs
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.Views.HttpClientView.xaml.g.cs
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.Views.HTTPWebRequestView.xaml.g.cs
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.Views.SerializationView.xaml.g.cs
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.Views.RestSharpView.xaml.g.cs
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.csproj.CopyComplete
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.dll
+C:\temp\Serialization\Serialization\IntroductionRest\IntroductionRest\IntroductionRest\obj\Debug\IntroductionRest.pdb
